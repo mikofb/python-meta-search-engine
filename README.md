@@ -1,12 +1,11 @@
 <p>
 	A python search engine based on Google.
 	<br>The results can be displayed in the command prompt or in the browser. <br>
-	Just give me your request :blush: !
 </p>
 
 ## INSTALLATION
 
-Just 3 little things are needed
+Just 3 little things are needed!
 
 ### Requires
 <ul>
@@ -29,7 +28,7 @@ Move to the dedicated directory
 
 ### Step 04
 
-Run the command below, submit your request, choose the output annnd :boom: you got it!
+Run the command below, submit your request and choose the output.
 
 ```
 python pythonMetaSearchEngine.py
